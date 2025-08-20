@@ -1,0 +1,8 @@
+.section-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 100px));
+  gap: 20px; /* for spacing between cards below */
+  margin-top: 60px;
+  padding: 0 30px; /* for spacing on the sides */
+  box-sizing: border-box
+}
