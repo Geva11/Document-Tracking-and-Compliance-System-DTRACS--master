@@ -26,7 +26,8 @@ const StartUp = () => {
                 className="greeting-image"
             />
           <p className="welcome-text">
-            Welcome to Document Tracking and Compliance System </p>
+            Welcome to Document Tracking and Compliance System!
+          </p>
         </div>
           <div className="home-instruction-section">
             <FaArrowDown className="home-arrow-icon" aria-hidden="true" />
